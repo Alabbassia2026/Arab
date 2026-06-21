@@ -304,6 +304,8 @@ https://media1.livaat.com/static/AL-RASHEED-HD/chunklist.m3u8
 https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2021/03/Broadcast_v3.png" , الغدير 
 https://s1.ettehadlive.com/live/2/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png",العباسية الحسينية
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png" ,أفاق
 https://s1.ettehadlive.com/live/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alahad.iq/img/logo.png" ,العهد
